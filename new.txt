@@ -1,4 +1,5 @@
-
+<<<<<< HEAD
+absbd,fmab.,m.,sa.,ndasn.,.as,mnd.,asn.asf
 skkflksflkl;
 kkslthis is rajashekar
 mnsbfm,sm
@@ -7,3 +8,14 @@ jkkasdnflmnld
 ,.mnm,nmdsvvlam
 ,mnaslnv
 '
+=======
+uksjgjkskgdsh
+jhsgkjsg
+kjksjgjkgskl`
+hjhgfhjhg
+hjgjk
+hjgjhh
+ghhtygk
+this is a rajashekar
+this is my first project
+>>>>>>> acea5c51fb4ef36b6e053c333773009afb3b13d6
